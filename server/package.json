@@ -1,0 +1,25 @@
+{
+  "name": "eth-global-taipei",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@curvegrid/multibaas-sdk": "^1.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.89.0",
+    "viem": "^2.25.0",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/ws": "^8.18.0",
+    "typescript": "^5.8.3"
+  }
+}
